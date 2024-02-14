@@ -1,7 +1,6 @@
 {
   "extends": [
-    "eslint:recommended",
-    "next/core-web-vitals"
+    "next/babel","next/core-web-vitals"
   ],
   "rules": {
     "react/prop-types": "off",
