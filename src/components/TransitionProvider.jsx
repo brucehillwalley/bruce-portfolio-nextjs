@@ -1,7 +1,7 @@
 "use client";
 
 import { AnimatePresence } from "framer-motion";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import { motion } from "framer-motion";
 import { usePathname } from "next/navigation";
 
