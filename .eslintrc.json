@@ -1,7 +1,5 @@
 {
-  "extends": [
-    "next/babel","next/core-web-vitals"
-  ],
+  "extends": ["next/babel", "next/core-web-vitals"],
   "rules": {
     "react/prop-types": "off",
     "no-unused-vars": "warn"
