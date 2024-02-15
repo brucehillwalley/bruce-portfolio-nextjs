@@ -1,3 +1,6 @@
+[Visit my portfolio](https://ibrahimbalcin-portfolio.vercel.app/)
+
+###some links for dev
 https://blog.webdevsimplified.com/2022-03/vscode-snippet/
 https://www.favicon-generator.org/
 https://www.framer.com/motion/animation/
