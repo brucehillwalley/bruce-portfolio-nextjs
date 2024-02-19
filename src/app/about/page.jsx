@@ -32,13 +32,13 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl text-sky-900"> BIOGRAPY </h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg text-sky-900">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-              ex saepe ea voluptatibus assumenda quasi consequatur ad similique,
-              iste aut commodi nesciunt nostrum blanditiis dolor.
+            I am a junior Frontend Developer with a degree in Computer Engineering and 8 years of experience in public service (not related to IT) after graduation. I have received specialized training in Frontend Development and have gained expertise in various technologies. I have successfully implemented various projects using the latest frontend development technologies, and these projects are accessible on my GitHub account.
+
+
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic text-sky-900">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            "Crafting captivating frontend experiences with a touch of innovation."
             </span>
             {/* BIOGRAPHY SIGN */}
             <div className="self-end">
