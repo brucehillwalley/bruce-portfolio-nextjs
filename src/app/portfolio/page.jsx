@@ -17,7 +17,7 @@ const items = [
     id: 2,
     color: "from-blue-300 to-violet-300",
     title: "Next.js Netflix App",
-    desc: "Data fetched from the IMDB API and present it on website, categorized for easy access. Users can explore various movies and search for specific movie.To access the app, user needs to login. ",
+    desc: "Data fetched from the IMDB API and present it on website, categorized for easy access. Users can explore various movies.To access the app, user needs to login. ",
     img: "/netflix.png",
     link: "https://netflix-nextjss.netlify.app/",
   },
