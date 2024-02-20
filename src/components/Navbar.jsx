@@ -91,7 +91,7 @@ const Navbar = () => {
         </Link>
       </div>
       {/* SOCIAL */}
-      <div className="hidden md:flex gap-4 w-1/3">
+      <div className="hidden md:flex gap-4 w-1/3 justify-end">
         <Link href="https://github.com/brucehillwalley">
           <Image src="/github.png" alt="github" width={24} height={24} />
         </Link>

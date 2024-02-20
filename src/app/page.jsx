@@ -36,12 +36,12 @@ const Homepage = () => {
           {/* BUTTONS */}
           <div className="flex gap-4">
             <Link href="/portfolio">
-              <button className="p-4 rounded-lg right-1 ring-black bg-sky-900 text-white font-semibold">
+              <button className="p-4 rounded-lg right-1 bg-sky-900 border-2 border-sky-900  text-white font-semibold">
                 View My Work
               </button>
             </Link>
             <Link href="/contact">
-              <button className="p-4 rounded-lg right-1 ring-black border-solid border-2 border-sky-900 text-sky-900 font-semibold">
+              <button className="p-4 rounded-lg right-1 border-solid border-2 text-sky-900  border-sky-900  bg-white font-semibold">
                 Contact Me
               </button>
             </Link>
