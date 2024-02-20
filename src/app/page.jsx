@@ -1,6 +1,7 @@
 "use client";
 import Image from "next/image";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 const Homepage = () => {
   return (
@@ -8,7 +9,7 @@ const Homepage = () => {
       className="h-full "
       initial={{ y: "-200vh" }}
       animate={{ y: "0%" }}
-      transition={{duration: 1}}
+      transition={{ duration: 1 }}
     >
       <div className="h-full flex flex-col lg:flex-row px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48">
         {/* IMAGE CONTAINER */}
@@ -34,12 +35,16 @@ const Homepage = () => {
           </p>
           {/* BUTTONS */}
           <div className="flex gap-4">
-            <button className="p-4 rounded-lg right-1 ring-black bg-sky-900 text-white font-semibold">
-              View My Work
-            </button>
-            <button className="p-4 rounded-lg right-1 ring-black border-solid border-2 border-sky-900 text-sky-900 font-semibold">
-              Contact Me
-            </button>
+            <Link href="/portfolio">
+              <button className="p-4 rounded-lg right-1 ring-black bg-sky-900 text-white font-semibold">
+                View My Work
+              </button>
+            </Link>
+            <Link href="/contact">
+              <button className="p-4 rounded-lg right-1 ring-black border-solid border-2 border-sky-900 text-sky-900 font-semibold">
+                Contact Me
+              </button>
+            </Link>
           </div>
         </div>
       </div>

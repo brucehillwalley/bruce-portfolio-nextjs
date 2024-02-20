@@ -81,12 +81,13 @@ const Navbar = () => {
       <div className="md:hidden lg:flex xl:w-1/3 xl:justify-center">
         <Link
           href="/"
-          className="text-sm bg-sky-900 rounded-full p-1 font-extrabold flex items-center justify-center"
+          className=" rounded-full p-1 font-extrabold flex items-center justify-center"
         >
-          <span className="text-white mr-1 ">Gibra</span>
+         <Image src="/logo.png" alt="logo" width={100} height={24} />
+          {/* <span className="text-white mr-1 ">ibal</span>
           <span className="w-12 h-8 rounded-full bg-white text-sky-900 flex items-center justify-center font-extrabold ">
             .dev
-          </span>
+          </span> */}
         </Link>
       </div>
       {/* SOCIAL */}
