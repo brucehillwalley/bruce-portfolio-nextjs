@@ -36,7 +36,7 @@ const Homepage = () => {
           {/* BUTTONS */}
           <div className="flex gap-4">
             <Link href="/portfolio">
-              <button className="p-4 rounded-lg right-1 bg-sky-900 border-2 border-sky-900  text-white font-semibold">
+              <button className="p-4 rounded-lg right-1 bg-sky-900 border-solid border-2 border-sky-900  text-white font-semibold">
                 View My Work
               </button>
             </Link>
