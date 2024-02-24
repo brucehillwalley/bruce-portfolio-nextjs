@@ -15,7 +15,7 @@ const items = [
   },
   {
     id: 2,
-    color: "from-purple-300 to-red-300",
+    color: "from-blue-300 to-violet-300",
     title: "PromptHub Blog App",
     desc: "PromptHub is an open-source platform for discovering and sharing AI prompts.",
     img: "/prompthub.png",
@@ -23,7 +23,7 @@ const items = [
   },
   {
     id: 3,
-    color: "from-blue-300 to-violet-300",
+    color: "from-violet-300 to-purple-300",
     title: "Next.js Netflix App",
     desc: "Data fetched from the IMDB API and present it on website, categorized for easy access. Users can explore various movies.To access the app, user needs to login. ",
     img: "/netflix.png",
@@ -31,7 +31,7 @@ const items = [
   },
   {
     id: 4,
-    color: "from-violet-300 to-purple-300",
+    color: "from-purple-300 to-red-300",
     title: "Crypto Coin App",
     desc: "Project aims to display current data of searched crypto coin around the world with fetching Crypto Coin Api data.",
     img: "/crypto.png",
