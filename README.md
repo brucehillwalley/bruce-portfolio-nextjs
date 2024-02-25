@@ -1,11 +1,11 @@
 [Visit my portfolio](https://ibrahimbalcin-portfolio.vercel.app/)
 
 ###some links for dev
-https://blog.webdevsimplified.com/2022-03/vscode-snippet/
-https://www.favicon-generator.org/
-https://www.framer.com/motion/animation/
-https://v1.tailwindcss.com/docs/border-style
-https://dashboard.emailjs.com/admin
+- https://blog.webdevsimplified.com/2022-03/vscode-snippet/
+- https://www.favicon-generator.org/
+- https://www.framer.com/motion/animation/
+- https://v1.tailwindcss.com/docs/border-style
+- https://dashboard.emailjs.com/admin
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
