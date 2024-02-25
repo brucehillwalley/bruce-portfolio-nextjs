@@ -1,45 +1,35 @@
 [Visit my portfolio](https://ibrahimbalcin-portfolio.vercel.app/)
 
-###some links for dev
+### some links for dev
 - https://blog.webdevsimplified.com/2022-03/vscode-snippet/
 - https://www.favicon-generator.org/
 - https://www.framer.com/motion/animation/
 - https://v1.tailwindcss.com/docs/border-style
 - https://dashboard.emailjs.com/admin
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### techs
 
-## Getting Started
+-  Responsive Navbar Design with Next.js & Tailwind CSS
+-  Hamburger Menu Design with Next.js & Tailwind CSS
+-  Next.js How to Give Active Link Style for a Navbar Link?
+-  Hero Section Design with Next.js & Tailwind CSS
+-  Next.js Framer Motion Tutorial
+-  Framer Motion Hamburger Menu Animation
+-  Framer Motion Stagger Children Tutorial
+-  Next.js Framer Motion Page Transition Tutorial       
+-  Portfolio Website About Page Design
+-  Portfolio Website Skills Section Design
+-  Timeline Design with Tailwind CSS 
+-  Framer Motion SVG Animation Tutorial
+-  Framer Motion Scroll Animation Tutorial (useScroll & useTransform hooks)
+-  Framer Motion useInView Hook Tutorial
+-  Portfolio Page Design with Next.js & Tailwind CSS
+-  Framer Motion Horizontal Scroll Animation Tutorial
+-  Circle Text Rotation Animation Tutorial
+-  Portfolio Single Item Design
+-  Portfolio Website Contact Page Design
+-  Framer Motion Text Typing Animation
+-  Next.js Contact Form Design
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
