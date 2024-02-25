@@ -7,7 +7,7 @@
 - https://v1.tailwindcss.com/docs/border-style
 - https://dashboard.emailjs.com/admin
 
-### techs
+### steps
 
 -  Responsive Navbar Design with Next.js & Tailwind CSS
 -  Hamburger Menu Design with Next.js & Tailwind CSS
