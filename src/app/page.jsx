@@ -25,13 +25,7 @@ const Homepage = () => {
           </h1>
           {/* DESC */}
           <p className="md:text-xl text-sky-900">
-            As a web developer, I am dedicated to crafting digital experiences
-            that shape the future. Through my portfolio site, I showcase my
-            passion for designing tomorrow's online landscape. With a focus on
-            user-centric design and innovative technologies, I strive to create
-            websites and applications that elevate the digital experience. Join
-            me on this journey as we craft the digital experiences of today and
-            design the tomorrow of the web.
+          Leveraging the power of the MERN stack to shape the digital world of tomorrow, I develop user-centric and innovative web applications. MERN, which combines the flexibility of MongoDB, the speed of Express.js, the user interface power of React.js, and the server-side advantages of Node.js, allows me to encompass all application layers using a single programming language, JavaScript. My aim is to deliver intuitive, fast, and scalable digital solutions; the work in my portfolio reflects my vision for the future of the web. While building today with the MERN stack, join me to be part of the digital transformation where we will create experiences that set the standards for tomorrow.
           </p>
           {/* BUTTONS */}
           <div className="flex gap-4">
