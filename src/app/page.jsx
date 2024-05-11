@@ -20,12 +20,12 @@ const Homepage = () => {
         {/* TEXT CONTAINER */}
         <div className="h-2/3 gap-4 md:h-1/2 lg:h-full lg:w-1/2 flex flex-col lg:gap-8 items-center justify-center ">
           {/* TITLE */}
-          <h1 className="text-2xl s:text-4xl md:text-5xl lg:text-6xl font-bold text-sky-900">
+          <h1 className="text-2xl s:text-4xl lg:text-5xl font-bold text-sky-900">
             Crafting Digital Experiences, Designing Tomorrow
           </h1>
           {/* DESC */}
           <p className="md:text-xl text-sky-900">
-          Leveraging the power of the MERN stack to shape the digital world of tomorrow, I develop user-centric and innovative web applications. MERN, which combines the flexibility of MongoDB, the speed of Express.js, the user interface power of React.js, and the server-side advantages of Node.js, allows me to encompass all application layers using a single programming language, JavaScript. My aim is to deliver intuitive, fast, and scalable digital solutions; the work in my portfolio reflects my vision for the future of the web. While building today with the MERN stack, join me to be part of the digital transformation where we will create experiences that set the standards for tomorrow.
+          Leveraging the power of the MERN stack to shape the digital world of tomorrow, I develop user-centric and innovative web applications. MERN, which combines the flexibility of MongoDB, the speed of Express.js, the user interface power of React.js, and the server-side advantages of Node.js, allows me to encompass all application layers using a single programming language, JavaScript. My aim is to deliver intuitive, fast, and scalable digital solutions; the work in my portfolio reflects my vision for the future of the web. 
           </p>
           {/* BUTTONS */}
           <div className="flex gap-4">
