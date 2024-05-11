@@ -32,13 +32,19 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl text-sky-900"> BIOGRAPY </h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg text-sky-900">
-            I am a junior Frontend Developer with a degree in Computer Engineering and 8 years of experience in public service (not related to IT) after graduation. I have received specialized training in Frontend Development and have gained expertise in various technologies. I have successfully implemented various projects using the latest frontend development technologies, and these projects are accessible on my GitHub account.
-
-
+              I am a junior FullStack Developer with a degree in Computer
+              Engineering and 8 years of experience in public service (not
+              related to IT) after graduation. I have received specialized
+              training in Frontend-Backend Development and have gained expertise
+              in various technologies. I have successfully implemented various
+              projects using the latest Frontend-Backend development
+              technologies, and these projects are accessible on my GitHub
+              account.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic text-sky-900">
-            "Crafting captivating frontend experiences with a touch of innovation."
+              "Crafting captivating FullStack experiences with a touch of
+              innovation."
             </span>
             {/* BIOGRAPHY SIGN */}
             <div className="self-end">
@@ -99,6 +105,21 @@ const AboutPage = () => {
               </div>
               <div className="rounded p-2 text-sm cursor-pointer bg-sky-900 text-white hover:bg-white hover:text-sky-900">
                 React.js
+              </div>
+              <div className="rounded p-2 text-sm cursor-pointer bg-sky-900 text-white hover:bg-white hover:text-sky-900">
+                Node.js
+              </div>
+              <div className="rounded p-2 text-sm cursor-pointer bg-sky-900 text-white hover:bg-white hover:text-sky-900">
+                Express.js
+              </div>
+              <div className="rounded p-2 text-sm cursor-pointer bg-sky-900 text-white hover:bg-white hover:text-sky-900">
+                MongoDB
+              </div>
+              <div className="rounded p-2 text-sm cursor-pointer bg-sky-900 text-white hover:bg-white hover:text-sky-900">
+                Mongoose
+              </div>
+              <div className="rounded p-2 text-sm cursor-pointer bg-sky-900 text-white hover:bg-white hover:text-sky-900">
+                EJS
               </div>
               <div className="rounded p-2 text-sm cursor-pointer bg-sky-900 text-white hover:bg-white hover:text-sky-900">
                 TypeScript
@@ -179,6 +200,39 @@ const AboutPage = () => {
               initial={{ x: "-300px" }}
               animate={isExperienceRefInView ? { x: "0px" } : {}}
             >
+              {/* EXPERIENCE LIST ITEM */}
+              <div className="flex justify-between h-48">
+                {/* LEFT */}
+                <div className="w-1/3 "></div>
+                {/* CENTER */}
+                <div className="w-1/6 flex justify-center">
+                  {/* LINE */}
+                  <div className="w-1 h-full bg-sky-900 rounded relative">
+                    {/* LINE CIRCLE */}
+                    <div className="absolute w-5 h-5 rounded-full ring-4 ring-red-400 bg-white -left-2"></div>
+                  </div>
+                </div>
+                {/* RIGHT */}
+                <div className="w-1/3 ">
+                  {/* JOB TITLE */}
+                  <div className="bg-white  text-sky-900 p-3 font-semibold rounded-b-lg rounded-s-lg">
+                    Junior Backend Developer
+                  </div>
+                  {/* JOB DESC */}
+                  <div className="p-3  text-sky-900 text-sm italic">
+                    I completed the Clarusway Backend Bootcamp and I became a MERN stack developer.
+                  </div>
+                  {/* JOB DATE */}
+                  <div className="p-3 text-red-400 text-sm font-semibold">
+                    05/2024 - Present
+                  </div>
+                  {/* JOB COMPANY */}
+                  <div className="p-1  text-sky-900 rounded bg-white text-sm font-semibold w-fit">
+                    Freelance
+                  </div>
+                </div>
+              </div>
+
               {/* EXPERIENCE LIST ITEM */}
 
               <div className="flex justify-between h-48">
